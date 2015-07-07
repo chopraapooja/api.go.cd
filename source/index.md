@@ -16,6 +16,7 @@ includes:
   - 060-backups
   - 070-pipeline-groups
   - 080-artifacts
+  - 090-properties
   - errors
 
 search: true
